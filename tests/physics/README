@@ -1,0 +1,7 @@
+These are some simple tests that are designed to test the ffea code at an high level - as opposed to unit tests.
+  Description of the tests can be found in the FFEA software paper.
+
+Tests can be run from the build folder sequentially typing "make test" or using a number of threads through "ctest -j <nthreads>".
+
+These tests are not currently made available in the installed software.
+
